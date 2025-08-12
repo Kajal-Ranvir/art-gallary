@@ -17,4 +17,5 @@ To enable artists, collectors, and galleries to securely tokenize and showcase t
 - Build a front-end UI to browse and interact with NFTs.
 
 ## 5. Contract Address
-SP1234567890ABCDEFGHIJKLMN0PQRSTUV.art-gallery-nft
+Contract Address: ST1EEZ7P776GBV9V5EPC53TPN1F7374GJ172GRCK4.art-gallary
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/34144c25-c918-451d-a20f-7c9e88a0faaa" />
